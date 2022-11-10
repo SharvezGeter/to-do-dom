@@ -1,0 +1,73 @@
+#body {
+        background-image: url("https://clickup.com/blog/wp-content/uploads/2019/01/to-do-list-apps.png");
+        background-repeat: no-repeat;
+}
+
+#addItems {
+    text-align: center;
+    
+    background-color: hsl(0, 0%, 100%);
+    border: none;
+    color: rgb(255, 0, 0);
+    padding: 15px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    outline: black;
+    
+}
+#removeItems {
+    background-color: hsl(234, 100%, 50%);
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+#removeAll {
+    background-color: hsl(0, 100%, 50%);
+    border: none;
+    color: rgb(0, 83, 250);
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.h1{
+   text-align: left;
+   margin-right: 100px;
+   border: 24px;
+   color: rgb(255, 255, 255);
+   text-align: left;
+   font-size: 30px;
+   font-style: italic;
+   text-decoration: wavy;
+   outline: black;
+   
+}
+.h2{
+    font-size: 24px;
+    text-align: top;
+    text-decoration: underline;
+}
+.h4{
+    text-decoration: underline solid;
+}
+li  {
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    font-style: italic;
+}
+
+
+
+
+
+
+
+
+
